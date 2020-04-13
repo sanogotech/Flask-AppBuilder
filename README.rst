@@ -34,6 +34,7 @@ Extensive configuration of all functionality, easily integrate with normal Flask
 Checkout installation video on `YouTube <http://youtu.be/xvum4vfwldg>`_
 
 Quick how to `Demo from the docs <http://flaskappbuilder.pythonanywhere.com/>`_ (login has guest/welcome).
+http://flaskappbuilder.pythonanywhere.com/
 
 Change Log
 ----------
